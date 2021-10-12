@@ -32,6 +32,5 @@ class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
 # OMS
-It's an office desktop application that helps an administator monitor sign in and out into the system by employees, 
-the total time worked ,leave messages and it generates image of the screen every minute.
+It's an office desktop application that helps an administator monitor sign in and out into the system by employees using a time stamp recorded in a database. It generates image of the screen every minute (could be adjusted in the code to suit the admins requirement ).
 The database used in the project is named wfh(1) it contains the default passwords 
