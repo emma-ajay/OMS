@@ -33,4 +33,4 @@ class name in the manifest Main-Class element.
 
 # OMS
 It's an office desktop application that helps an administator monitor sign in and out into the system by employees using a time stamp recorded in a database. It generates image of the screen every minute (could be adjusted in the code to suit the admins requirement ).
-The database used in the project is named wfh(1) it contains the default passwords 
+The database used in the project is named wfh(1) it contains the default passwords. The entire UI was designed using photoshop software and open source images on java swing.
